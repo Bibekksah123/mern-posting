@@ -1,0 +1,23 @@
+.title{
+  text-align: center;
+}
+.new-form,.loading{
+  width: 50%;
+  margin: 0 auto;
+}
+
+form textarea{
+  resize: none;
+}
+.loading .big{
+  width: 100px;
+  height: 100px;
+margin:200px;
+}
+.rows{
+  margin-top: 20px;
+ display: flex;
+
+ width: 500px;
+}
+
